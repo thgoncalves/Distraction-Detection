@@ -1,0 +1,15 @@
+data/
+Backup Project/
+00. Deliverables/
+Demo Day/
+envSetup/
+frames/
+old/
+prediction_csv_files/
+Proposal/
+Pytorch Version/
+saved_models/old/
+Booklet _Fall2019_TO.pdf
+.DS_Store
+.ipynb_checkpoints
+saved_models/
